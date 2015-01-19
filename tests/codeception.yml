@@ -1,0 +1,8 @@
+include:
+    0: codeception/common
+    3: codeception/console
+    4: codeception/wechat
+paths:
+    log: codeception/_output
+settings:
+    colors: true
